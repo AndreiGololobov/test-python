@@ -6,3 +6,11 @@ This is my description
 
 # asddsfsfd
 
+git add README.md
+
+git commit -m "new message"
+
+git add .
+
+git push origin main
+
